@@ -18,10 +18,9 @@ Main nav menu - background color change to purple
     	display: block !important;
     	border-top: 0px;
     	border-bottom: 0px;
-    	
-}.main_nav{
-	background-color: #0294CA;
+    	background-color: #0294CA;
 }
+
 
 /*LEARNING HUB HEADER TEXT & ALIGNMENT- WHITE*/
 .strapline h1{
