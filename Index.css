@@ -155,8 +155,7 @@ h1 {
 .mask {
   overflow: hidden;
   height: 427px;
-	width:100%;
-	/*width: 900px;*/
+	width: 900px;
 
 }
 
