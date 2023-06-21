@@ -9,6 +9,10 @@ color: #545558!important;
     font-weight: 800;
 }
 
+.main_nav_wrapper {
+	background-color: #0294ca;
+}
+
 /*************************************************
 Main nav menu - background color change to purple
 *************************************************/
@@ -34,7 +38,7 @@ Main nav menu - background color change to purple
 
 /*EXPLORE BUTTON - BACKGROUND DARK BLUE Margin right */
 .dropbtn {
-	background-color: #333;
+	background-color: #042E3D;
 	margin-right: 10px;
 	font-weight: 500;
 }
@@ -58,7 +62,7 @@ Main nav menu - background color change to purple
 
 /*MY COURSES TEXT COLOR CHANGE ON HOVER -  GREY */
 #main_nav li:first-child .menu_link:hover{
-	color: #111112;
+	color: #042E3D;
 }
 
 /*REGISTER BUTTON - BACKGROUND BLUE */
@@ -68,7 +72,7 @@ Main nav menu - background color change to purple
 
 /*REGISTER BUTTON ON HOVER - REMOVE PURPLE BOX & GREY TEXT ON HOVER */
 .cmregister:hover{
-	color: #111112;
+	color: #042E3D;
 	background-color: transparent
 }
 
@@ -79,7 +83,7 @@ Main nav menu - background color change to purple
 
 /*LOGIN & REGISTER LINK ON HOVER - GREY*/
 .cmlink a:hover {
-    color: #111112!important;
+    color: #042E3D!important;
 }
 
 
