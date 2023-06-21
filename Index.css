@@ -133,13 +133,14 @@ h1 {
   width: 70%;
   margin: 40px auto 0;
   overflow: visible;
-  position:
-	
+  position:	
 }
 
+/*width extension*/
 .mask {
   overflow: hidden;
   height: 420px;
+	width: 900px;
 
 }
 
