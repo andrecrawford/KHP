@@ -6,16 +6,26 @@ color: #545558!important;
 }
 
 #main_nav ul {
-    font-weight: 800;
+    font-weight: 700;
 }
 
-.main_nav_wrapper {
-	background-color: #0294ca;
-}
+
 
 /*************************************************
 Main nav menu - background color change to purple
 *************************************************/
+
+
+/*main nav background color change*/
+.main_nav_wrapper {
+	background-color: #0294ca;
+}
+
+/*color change and bottom padding to create symetry to banner background color and explore button*/
+#main_nav{
+	background-color: #0294CA;
+	padding-bottom: 4px;
+}
 
 /*BACKGROUND COLOR CHANGE - BLUE*/
 .main_nav_wrapper {
@@ -25,10 +35,6 @@ Main nav menu - background color change to purple
     	
 }
 
-
-#main_nav {
-	background-color: #0294CA;
-}
 
 /*LEARNING HUB HEADER TEXT & ALIGNMENT- WHITE*/
 .strapline h1{
