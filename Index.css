@@ -136,10 +136,10 @@ h1 {
   position:	
 }
 
-/*width extension*/
+/*width extension and height alignment from 420 to 427px*/
 .mask {
   overflow: hidden;
-  height: 420px;
+  height: 427px;
 	width: 900px;
 
 }
