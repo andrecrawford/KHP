@@ -15,7 +15,7 @@ color: #545558!important;
 Mobile responsiveness
 *************************************************/
 
-/*main nav transparent*/
+/*main nav transparent in mobile*/
 .mobile-dropdown-menu{
 	background-color: transparent;
 }
@@ -23,6 +23,7 @@ Mobile responsiveness
 /*aligning the learning hub test within main nav*/
 .strapline h1 {
 	margin-left: 0px;
+	color:#ffffff;
 }
 
 
@@ -40,6 +41,7 @@ Main nav menu - background color change to purple
 #main_nav{
 	background-color: #0294CA;
 	padding-bottom: 4px;
+	padding-left: 7px;
 }
 
 /*BACKGROUND COLOR CHANGE - BLUE*/
