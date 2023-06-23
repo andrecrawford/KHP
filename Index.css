@@ -24,7 +24,7 @@ Mobile responsiveness
 .strapline h1 {
 	margin-left: 0px;
 }
-7
+
 
 /*************************************************
 Main nav menu - background color change to purple
@@ -41,7 +41,7 @@ Main nav menu - background color change to purple
 	background-color: #0294CA;
 	padding-bottom: 4px;
 }
-/*
+
 /*BACKGROUND COLOR CHANGE - BLUE*/
 .main_nav_wrapper {
     	display: block !important;
@@ -49,7 +49,7 @@ Main nav menu - background color change to purple
     	border-bottom: 0px;
     	
 }
-*/
+
 
 /*LEARNING HUB HEADER TEXT & ALIGNMENT- WHITE*/
 .strapline h1{
