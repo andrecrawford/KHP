@@ -34,7 +34,7 @@ Main nav menu - background color change to purple
 
 /*main nav background color change*/
 .main_nav_wrapper {
-	background-color: #0294ca;
+	/*background-color: #0294CA;*/
 }
 
 /*color change and bottom padding to create symetry to banner background color and explore button*/
