@@ -1,5 +1,30 @@
 
 /*************************************************
+Mobile responsiveness
+*************************************************/
+
+/*main nav transparent in mobile*/
+.mobile-dropdown-menu{
+	background-color: transparent;
+}
+
+/*aligning the learning hub test within main nav*/
+.strapline h1 {
+	margin-left: 0px;
+	color:#ffffff;
+}
+
+
+/*************************************************
+TOP RATED COURSES - ADD TO BASKET BUTONS
+*************************************************/
+
+/*ADD TO BASKET BUTTONS ON HOVER - GREY*/
+.product-list-cell-add-to-cart .orderbutton:hover, .formbutton:hover {
+	background-color: #00AEEF;
+}
+
+/*************************************************
 Carousel
 *************************************************/
 html,
